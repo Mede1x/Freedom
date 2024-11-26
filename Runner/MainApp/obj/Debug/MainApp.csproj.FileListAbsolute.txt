@@ -1,0 +1,10 @@
+C:\Users\Meed\source\repos\MainApp\MainApp\bin\Debug\MainApp.exe.config
+C:\Users\Meed\source\repos\MainApp\MainApp\bin\Debug\MainApp.exe
+C:\Users\Meed\source\repos\MainApp\MainApp\bin\Debug\MainApp.pdb
+C:\Users\Meed\source\repos\MainApp\MainApp\obj\Debug\MainApp.csproj.AssemblyReference.cache
+C:\Users\Meed\source\repos\MainApp\MainApp\obj\Debug\MainApp.Form1.resources
+C:\Users\Meed\source\repos\MainApp\MainApp\obj\Debug\MainApp.Properties.Resources.resources
+C:\Users\Meed\source\repos\MainApp\MainApp\obj\Debug\MainApp.csproj.GenerateResource.cache
+C:\Users\Meed\source\repos\MainApp\MainApp\obj\Debug\MainApp.csproj.CoreCompileInputs.cache
+C:\Users\Meed\source\repos\MainApp\MainApp\obj\Debug\MainApp.exe
+C:\Users\Meed\source\repos\MainApp\MainApp\obj\Debug\MainApp.pdb
