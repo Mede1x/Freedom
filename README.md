@@ -10,7 +10,7 @@ This project is intended for fun and exploration. It integrates multiple technol
 
 ### **C++ Libraries**
 1. **Crow.h**  
-   - Link: [Crow.h GitHub Repository](https://github.com/CrowCpp/Crow)
+   - Link: [Crow.h Header File Only](https://crowcpp.org/master)
    
 2. **Asio**  
    - Link: [Asio Documentation](https://think-async.com/Asio/)
