@@ -2,6 +2,9 @@
 
 ### PassKey: `freedom123`
 
+![{4090DEB4-73C9-4397-BED1-2B0530DCF186}](https://github.com/user-attachments/assets/e6d5041b-ee12-48ad-aeab-b8dc102c9d99)
+
+
 This project is intended for fun and exploration. It integrates multiple technologies like **C++** and **JavaScript (Electron)** for creating a versatile and fun app.
 
 ---
