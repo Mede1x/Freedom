@@ -20,9 +20,6 @@ This project is intended for fun and exploration. It integrates multiple technol
    Install Electron by running the following command:
    ```bash
    npm install electron
-
-
-
 ### **IMPORTANT**
    **Folder** 
    Make sure to place the MainApp.exe, HIDNV.exe, and app.exe in the same folder
